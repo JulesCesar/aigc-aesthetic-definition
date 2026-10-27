@@ -4,7 +4,7 @@
 |---|---|---|
 | 皮肤 | 可见毛孔、鼻翼油光、细纹、耳廓透光 | visible pores, oily nose, fine lines, subsurface scattering |
 | 毛发 | 短而密、边缘杂色长毛、逆光毛边 | short dense coat, stray guard hairs, rim-lit edge |
-| 鳞片 | 湿润反光、鳞缘暗红、细划痕 | wet specular, dark-red edges, fine scratches |
+| 有鳞表面 | 湿润反光、鳞缘偏暗、细划痕 | wet specular, darkened scale edges, fine scratches |
 | 金属 | 磨损、高点发亮、指纹、氧化 | worn edges, polished highlights, fingerprints, oxidation |
 | 玉石 | 半透、内部絮状、油润 | translucent, internal cloudiness, oily luster |
 | 青铜 | 凹处绿锈、高点被摸亮 | patina in recesses, polished wear points |
