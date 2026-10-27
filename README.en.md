@@ -9,7 +9,7 @@ A skill pack for AI coding assistants that support skill directories that decomp
 
 - **Flat image**: "cinematic" with no light position, ratio or color temperature
 - **Plastic / CG look**: materials described with adjectives only, no reflection model or defects
-- **Style drift**: illustration / game / art-movement tokens turn photorealism into a painting
+- **Style drift**: drawing / game / art-movement tokens turn photorealism into a painting
 - **Character inconsistency**: no reference image, no consistency anchors
 - **Wrong counts**: nine tails drawn as one, three tentacles drawn as five
 
