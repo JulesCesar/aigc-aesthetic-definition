@@ -49,6 +49,10 @@ The assistant loads the skill and returns a copy-ready block following *subject 
 
 Not "premium feel", but "single 45° soft key, 5600K, 1:3 ratio, light landing on the nose bridge and cheekbone".
 
+## Scope
+
+This repository contains method, judgement rules and generic templates only. It contains **no screenplay, character bible, scene description from any specific project, and no book content**.
+
 ## Attribution
 
 The framework is inspired by the public methodology of *AIGC 提示词美学定义* by 傅炯 (Fu Jiong), People's Posts and Telecommunications Press, 2024, rewritten from the author's own practice.
