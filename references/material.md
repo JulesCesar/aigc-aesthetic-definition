@@ -12,11 +12,11 @@
 | 木 | 木纹、裂纹、手磨亮 | grain, cracks, hand-polished sheen |
 | 水 | 表面张力、细涟漪、反射破碎 | surface tension, fine ripples, broken reflections |
 | TPU/PU | 半透明、有厚度、边缘发亮、褶皱不规则 | translucent TPU, thickness, bright edges, irregular folds |
-| 闪粉 | 细颗粒反光、随角度变色 | glitter powder, angle-dependent sparkle |
+| 金属闪粉 | 细颗粒反光、随角度变色 | metallic flakes, angle-dependent sparkle |
 | 缎面 | 高光随褶皱流动、颜色随角度变深 | satin, moving specular, angle-dependent shift |
 
 ## 八个材质方向（书第 3 章）
-轻软棉绒｜原始朴真｜坚硬岩铁｜梦幻薄纱｜鎏金光芒｜迷幻光影｜欢趣色彩｜（自然复合）
+柔软蓬松｜粗糙手工｜冷硬石材｜半透明薄纱｜金属光泽｜半透明闪粉｜高饱和玩具色｜自然复合
 
 ## 用法
 1. 一张图只写 2–3 种材质，写透

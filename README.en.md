@@ -3,7 +3,7 @@
 > **Turn an image idea into executable aesthetic parameters — then write the prompt.**
 > [中文](README.md)
 
-A skill pack for AI coding assistants (Claude Code, Codex, DeepSeek Harness, etc.) that decomposes a shot into *light → material → style → lens* before writing the prompt, so it avoids adjective stacking and the "AI look".
+A skill pack for AI coding assistants that support skill directories that decomposes a shot into *light → material → style → lens* before writing the prompt, so it avoids adjective stacking and the "AI look".
 
 ## What it fixes
 
@@ -20,7 +20,7 @@ git clone https://github.com/JulesCesar/aigc-aesthetic-definition.git \
   ~/.agents/skills/aigc-aesthetic-definition
 ```
 
-Or copy the folder into `~/.agents/skills/` (Claude Code users may use `~/.claude/skills/`).
+Or copy the folder into `~/.agents/skills/` (some tools also read `~/.claude/skills/`).
 
 ## Contents
 
@@ -55,9 +55,9 @@ This repository contains method, judgement rules and generic templates only. It 
 
 ## Attribution
 
-The framework is inspired by the public methodology of *AIGC 提示词美学定义* by 傅炯 (Fu Jiong), People's Posts and Telecommunications Press, 2024, rewritten from the author's own practice.
+The framework draws on publicly available material about AIGC prompting and photographic aesthetics, rewritten from the author's own practice.
 
-This skill is an **independent digest**: unofficial, not authorized, and contains no book text or sample images. Please buy the book for the full method.
+This skill is an **independent digest**: it quotes no book text or sample images, and is not authorized by any publisher.
 
 ## License
 

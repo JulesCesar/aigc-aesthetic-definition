@@ -3,7 +3,7 @@
 > **把画面拆成可执行的美学参数，再写提示词。**
 > [English](README.en.md)
 
-一个给 AI 编码助手（Claude Code / Codex / DeepSeek Harness 等）用的技能包：写人物定妆照、三视图、剧照、场景图、视频首帧的提示词时，按「光 → 材质 → 风格 → 镜头」拆解，避免形容词堆叠和 AI 味。
+一个给支持技能目录的 AI 编码助手用的技能包：写人物定妆照、三视图、剧照、场景图、视频首帧的提示词时，按「光 → 材质 → 风格 → 镜头」拆解，避免形容词堆叠和 AI 味。
 
 ## 解决什么问题
 
@@ -20,7 +20,7 @@ git clone https://github.com/JulesCesar/aigc-aesthetic-definition.git \
   ~/.agents/skills/aigc-aesthetic-definition
 ```
 
-也可把整个目录复制到 `~/.agents/skills/`（Claude Code 用户可用 `~/.claude/skills/`）。
+也可把整个目录复制到 `~/.agents/skills/`（部分工具也读取 `~/.claude/skills/`）。
 
 ## 内容
 
@@ -55,9 +55,9 @@ references/anti-patterns.md 勿用清单 + 15 个翻车点 + 9 项验收表
 
 ## 方法来源
 
-框架参考傅炯《AIGC 提示词美学定义》（人民邮电出版社，2024）的公开方法论，并结合作者实践重写。
+方法框架参考公开出版的 AIGC 提示词与摄影美学资料，并结合作者实践重写。
 
-本技能为**独立整理**：非官方、未获授权、未收录原书文字与案例图。如需系统学习，请购买原书。
+本技能为**独立整理**：不引用任何书籍原文或案例图，也未获任何机构授权。
 
 ## License
 
